@@ -31,7 +31,7 @@ Linux support via Omarchy: community Waybar module and TUI, driven by the `codex
 
 ## Providers
 
-- [Codex](docs/codex.md) — Local Codex CLI RPC (+ PTY fallback) and optional OpenAI web dashboard extras.
+- [Codex](docs/codex.md) — Local Codex CLI RPC (+ PTY fallback) and optional OpenAI web dashboard extras. [中文文档索引](docs/codex-documentation-index-cn.md)
 - [Claude](docs/claude.md) — OAuth API or browser cookies (+ CLI PTY fallback); session + weekly usage.
 - [Cursor](docs/cursor.md) — Browser session cookies for plan + usage + billing resets.
 - [Gemini](docs/gemini.md) — OAuth-backed quota API using Gemini CLI credentials (no browser cookies).
